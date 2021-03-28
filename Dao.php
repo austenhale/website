@@ -10,7 +10,8 @@ class Dao {
   private $host = "us-cdbr-east-03.cleardb.com";
   private $db = "heroku_8e12e35414ca6ea";
   public $user = "b0b660f29fc63c";
-  public $pass = "e0503ed9";
+  public $password = "e0503ed9";
+  public $dsn = 'msql:host=us-cdbr-east-03.cleardb.com;dbname=heroku_8e12e35414ca6ea';
   protected $logger;
   
 
@@ -20,7 +21,7 @@ class Dao {
 
   public function getConnection () {
     try {
-      $connection = new PDO("mysql:host={$this->host};dbname={$this->db};user={$this->user};pass={$this->pass}");
+     return new PDO($this->dsn, $this->user, $this->password);
       $this->logger->LogInfo('Connection succeeded');
     } catch (PDOException $e) {
       echo 'Connection failed: ' . $e->getMessage();
