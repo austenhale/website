@@ -1,22 +1,22 @@
 
-<link rel="stylesheet" href="..\style.css">
-<link rel="icon" type="image/png" href="../Images/aouc.png">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" type="image/png" href="Images/aouc.png">
 
   <div id="login_logo">
     <?php
-        require_once '..\Dao.php';
+        require_once 'Dao.php';
         $email = isset($_SESSION['email']) ? $_SESSION['email'] : "nouser";
         $password = isset($_SESSION['password']) ? $_SESSION['password'] : "";
         $_SESSION['authenticated'] = isset($_SESSION['authenticated']) ? $_SESSION['authenticated'] : false;
         
         if($_SESSION['authenticated']){
             echo "<div id=login>Welcome, $email
-            <form action=..\logout_handler.php method=get>
+            <form action=logout_handler.php method=get>
             <input type=submit id=logout action=logout_handler.php value=logout>
             </form>
             </div>";
         }else {
-            echo "<form id=login method=post action=..\login_handler.php>
+            echo "<form id=login method=post action=login_handler.php>
             <label for=email>Email: </label>
             <input type=text id=email name=email>
             <label for=password>Password: </label>
@@ -36,7 +36,7 @@
         ?>
 
         
-        <a href=..\home.php><img src=..\Images\aouc.png alt=aouc logo class=center></a>
+        <a href=home.php><img src=Images\aouc.png alt=aouc logo class=center></a>
     </div>
     <div id="header_alphabet_letters">
          <ul id="ul_header_letters">

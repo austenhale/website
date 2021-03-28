@@ -1,16 +1,16 @@
 <?php 
 session_start();
 $_SESSION['current_page'] = $_SERVER['REQUEST_URI'];
-$_SESSION['comment_table'] = "comments_e";
+$_SESSION['comment_table'] = "comments_c";
 ?>
 <html>
     <head>
         <link rel="stylesheet" href="style.css">
         <?php include_once 'animal_header.php'; ?>
     </head>
-    <h1 id="animal_name">Animal with 'E' name</h1>
+    <h1 id="animal_name">Animal with 'C' name</h1>
     <div id=animal_content>
-        <img src="../Images/aouc.png" alt="aouc logo" id="left_picture">
+        <img src="Images/aouc.png" alt="aouc logo" id="left_picture">
         <p id=animal_text>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
             ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
@@ -18,7 +18,7 @@ $_SESSION['comment_table'] = "comments_e";
             velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
             in culpa qui officia deserunt mollit anim id est laborum. 
         </p>
-        <img src="../Images/world_map.jpg" alt="aouc logo" id="right_picture">
+        <img src="Images/world_map.jpg" alt="aouc logo" id="right_picture">
     </div>
     <?php include_once 'comments_table.php'; ?>
         

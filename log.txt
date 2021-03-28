@@ -1,238 +1,7766 @@
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: name 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: name 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: name 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: name 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: name 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: name 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: name 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user does not existArray
+now - INFO  --> user is not adminArray
 (
     [total] => 0
     [0] => 0
 )
-with username: austenphale@gmail.com
  
-now - INFO  --> user found!Array
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
+ 
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
+ 
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user does not existArray
+ 
+now - INFO  --> user is not adminArray
 (
     [total] => 0
     [0] => 0
 )
-with username: austenphale@gmail.com
  
-now - INFO  --> user does not existArray
+now - INFO  --> user is not adminArray
 (
     [total] => 0
     [0] => 0
 )
-with username: 123
  
-now - INFO  --> user does not existArray
+now - INFO  --> user is not adminArray
 (
     [total] => 0
     [0] => 0
 )
-with username: 123
  
-now - INFO  --> user does not existArray
+now - INFO  --> user is not adminArray
 (
     [total] => 0
     [0] => 0
 )
-with username: 123
  
-now - INFO  --> user does not existArray
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
 (
     [total] => 0
     [0] => 0
 )
-with username: 123
  
-now - INFO  --> user does not existArray
+now - INFO  --> user is not adminArray
 (
     [total] => 0
     [0] => 0
 )
-with username: 123
  
-now - INFO  --> user does not existArray
+now - INFO  --> user is not adminArray
 (
     [total] => 0
     [0] => 0
 )
-with username: 123
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not admin 
+now - INFO  --> user is not admin 
+now - INFO  --> user is not admin 
+now - INFO  --> user is not admin 
+now - INFO  --> user is not admin 
+now - INFO  --> user is not admin 
+now - INFO  --> user is not admin 
+now - INFO  --> user is not admin 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'b0b660f29fc63c'@'localhost' (using password: YES) 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> Connection failed: invalid data source name 
+now - INFO  --> Connection failed: invalid data source name 
+now - INFO  --> Connection failed: invalid data source name 
+now - INFO  --> Connection failed: invalid data source name 
+now - INFO  --> Connection failed: invalid data source name 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
  
 now - INFO  --> user found!Array
 (
@@ -240,98 +7768,161 @@ now - INFO  --> user found!Array
     [0] => 1
 )
 with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
-(
-    [total] => 1
-    [0] => 1
-)
-with username: austenphale@gmail.com 
-now - INFO  --> user was found!Array
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
  
-now - INFO  --> user was found!Array
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
  
-now - INFO  --> user was found!Array
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
  
-now - INFO  --> user was found!Array
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
  
-now - INFO  --> user found!Array
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
+ 
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
+ 
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
+ 
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
+ 
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
+ 
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user does not existArray
+ 
+now - INFO  --> user is not adminArray
 (
     [total] => 0
     [0] => 0
 )
-with username: austenphale@gmail.com
  
-now - INFO  --> user does not existArray
+now - INFO  --> user is not adminArray
 (
     [total] => 0
     [0] => 0
 )
-with username: austenphale@gmail.com
  
-now - INFO  --> user does not existArray
+now - INFO  --> user is not adminArray
 (
     [total] => 0
     [0] => 0
 )
-with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
  
 now - INFO  --> user found!Array
 (
@@ -339,75 +7930,69 @@ now - INFO  --> user found!Array
     [0] => 1
 )
 with username: austenphale@gmail.com 
-now - INFO  --> user does not existArray
-(
-    [total] => 0
-    [0] => 0
-)
-with username: austenphale@gmail.com
- 
-now - INFO  --> user found!Array
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user does not existArray
-(
-    [total] => 0
-    [0] => 0
-)
-with username: austenphale@gmail.com
  
-now - INFO  --> user does not existArray
-(
-    [total] => 0
-    [0] => 0
-)
-with username: austenphale@gmail.com
- 
-now - INFO  --> user found!Array
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user does not existArray
-(
-    [total] => 0
-    [0] => 0
-)
-with username: austenphale@gmail.com
  
-now - INFO  --> user does not existArray
-(
-    [total] => 0
-    [0] => 0
-)
-with username: austenphale@gmail.com
- 
-now - INFO  --> user found!Array
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user does not existArray
-(
-    [total] => 0
-    [0] => 0
-)
-with username: austenphale@gmail.com
  
-now - INFO  --> user found!Array
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
-now - INFO  --> user found!Array
+ 
+now - INFO  --> user is adminArray
 (
     [total] => 1
     [0] => 1
 )
-with username: austenphale@gmail.com 
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 

@@ -1,5 +1,5 @@
 <?php
-    require_once '..\Dao.php';
+    require_once 'Dao.php';
     $dao = new Dao();
     $comments = $dao->getComments($_SESSION['comment_table']);
     ?>
@@ -25,7 +25,7 @@
                 $dao = new Dao();
                 $email = isset($_SESSION['email']) ? $_SESSION['email'] : "nouser";
                 if ($dao->isAdmin($email)){
-                    echo  "<td><a href='..\delete_comment.php?id={$comment['comment_id']}'>X</a></td></tr>";
+                    echo  "<td><a href='delete_comment.php?id={$comment['comment_id']}'>X</a></td></tr>";
                 } else {
                     echo "</tr>";
                 } 
@@ -35,7 +35,7 @@
         </table>
         
         
-        <form method="post" action="..\comment_handler.php" enctype="multipart/form-data">
+        <form method="post" action="comment_handler.php" enctype="multipart/form-data">
             <div class="input_box">
                 <label for="comment">Comment:</label>
                 <input value="<?php echo isset($_SESSION['form_data']['comment']) ? $_SESSION['form_data']['comment'] : ''; ?>" type="text" id="comment" name="comment">
