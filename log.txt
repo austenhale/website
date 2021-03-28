@@ -7996,3 +7996,15 @@ now - INFO  --> user is adminArray
     [0] => 1
 )
  
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
+now - INFO  --> Connection succeeded 
+now - INFO  --> Connection succeeded 
+now - INFO  --> user is not admin 
