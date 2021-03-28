@@ -4,9 +4,14 @@ require_once 'KLogger.php';
 
 class Dao {
 
-  public $dsn = 'mysql:host=localhost;dbname=aouc';
-  public $user = "root";
-  public $password = "66bird13!";
+  #public $dsn = 'mysql:host=localhost;dbname=aouc';
+  #public $user = "root";
+  #public $password = "66bird13!";
+  private $host = "us-cdbr-east-03.cleardb.com";
+  private $db = "heroku_8e12e35414ca6ea";
+  public $user = "b0b660f29fc63c";
+  public $pass = "e0503ed9";
+  public $dsn = 'mysql:host=us-cdbr-east-03.cleardb.com; dbname=heroku_8e12e35414ca6ea';
   protected $logger;
   
 
@@ -14,15 +19,23 @@ class Dao {
     $this->logger = new KLogger ( "log.txt" , KLogger::DEBUG );
   }
 
-  private function getConnection () {
+  public function getConnection () {
     try {
-        $connection = new PDO($this->dsn, $this->user, $this->password);
-        #echo 'Connected successfully';
+      $connection = new PDO($this->dsn, $this->user, $this->pass);
     } catch (PDOException $e) {
-        echo 'Connection failed: ' . $e->getMessage();
+      echo 'Connection failed: ' . $e->getMessage();
     }
     return $connection;
   }
+  // private function getConnection () {
+  //   try {
+  //       $connection = new PDO($this->dsn, $this->user, $this->password);
+  //       #echo 'Connected successfully';
+  //   } catch (PDOException $e) {
+  //       echo 'Connection failed: ' . $e->getMessage();
+  //   }
+  //   return $connection;
+  // }
 
   public function isAdmin($email){
     $connection = $this->getConnection();
