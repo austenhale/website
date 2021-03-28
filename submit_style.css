@@ -1,0 +1,94 @@
+html {
+    background-color:rgb(96, 96, 255)
+}
+#signup{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:24px;
+    padding:4px 2px;
+    border:solid 1px #aacfe4;
+    width:400px;
+    
+}
+
+* {box-sizing: border-box}
+/* Full-width input fields */
+  input[type=text], input[type=password] {
+    
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    border: none;
+    background: #f1f1f1;
+}
+label {
+  margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+    opacity: 0.9;
+  }
+
+  button:hover {
+    opacity:1;
+  }
+
+/* Add padding to container elements */
+.container {
+    
+    padding: 16px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:24px;
+    border:solid 3px #aacfe4;
+    width:430px;
+  }
+
+#signup_submit {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+    opacity: 0.9;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#submit_subtext {
+    font-size: small;
+}
+
+#returnHome {
+    float:right;
+    color: black;
+    text-decoration-line: underline;
+}
+
+#invalid_signup{
+  color: red;
+  background-color: white;
+  top: 15%;
+}
+

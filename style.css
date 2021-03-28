@@ -1,0 +1,151 @@
+#header_alphabet_letters {
+    background-color:rgb(50, 88, 12);
+}
+
+#ul_header_letters > li{
+    position: relative;
+    display:inline;
+    padding: 1.2%;
+    font-size: 30px;
+
+   
+}
+
+
+
+#login_logo {
+    position: relative;
+    background-color:rgb(32, 7, 255)
+    
+}
+
+#login {
+    position: absolute;
+    z-index: 2;
+    float:right;
+    color: white;
+    
+    
+    
+}
+
+#logout {
+    position: absolute;
+    float:right;
+    z-index: 2;
+    color: rgb(3, 3, 3);
+    
+    
+}
+
+.center {
+   
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 17%;
+    height: 17%;
+}
+
+#welcome {
+    text-align: center;
+    font-size:52px;
+}
+
+#letter_selection {
+    text-align: center;
+}
+
+body {
+    background-color:rgb(119, 119, 119)
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background-color:rgb(56, 55, 55)
+}
+
+
+#footer_text {
+    text-align:center;
+}
+
+#left_picture {
+    float:left;
+    width: 15%;
+    height: 17%;
+}
+
+#animal_text {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#animal_name {
+    text-align: center;
+}
+
+#right_picture {
+    float:right;
+    width: 15%;
+    height: 17%;
+}
+
+#comments {
+    position: fixed;
+    left: 40%;
+    bottom: 10%;
+    padding-top: 5%;
+}
+
+#comments_table {
+    background-color: white;
+}
+
+
+#submit_comments {
+    position: relative;
+    left: 20%;
+    bottom: 10%;
+}
+.input_box {
+    position: fixed;
+    left: 47%;
+    bottom: 9%;
+    padding-top: 10px;
+}
+table {
+    margin-left: 50px;
+    border-collapse: collapse;
+    overflow: auto;
+  }
+  
+table > thead > tr > th  {
+    background-color: #AAA;
+    border: solid 1px #111;
+    padding: 10 10;
+  
+}
+  
+table > tr, td {
+    border: solid 1px #111;
+    padding: 10 10;
+}
+
+table > tbody > tr {
+    background-color: white;
+}
+
+  html { overflow-y: auto; overflow-x: hidden; }
+
+#invalid_login {
+    color: red;
+    background-color: white;
+    position: absolute;
+    top: 15%;
+}
+  
