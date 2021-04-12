@@ -40,8 +40,19 @@
     </div>
     <div id="header_alphabet_letters">
          <ul id="ul_header_letters">
-            <li><a href="a_letter.php">A</a></li>
-            <li><a href="b_letter.php">B</a></li>
+            <?php 
+            $alaphabet = range('a', 'z');
+            foreach ($alaphabet as $letter)
+            if (strcmp($_SESSION['current_page'],"/aouc/".$letter ."_letter.php") == 0){
+                echo "<li>
+                        <a href=" . $letter . "_letter.php><span style=color:black><u>".strtoupper($letter)."</u></span></a>
+                      </li>";
+            }else {
+                echo "<li><a href=" . $letter . "_letter.php>".strtoupper($letter)."</a></li>";
+            }
+            ?>
+                
+           <!-- <li><a href="b_letter.php">B</a></li>
             <li><a href="c_letter.php">C</a></li>
             <li><a href="d_letter.php">D</a></li>
             <li><a href="e_letter.php">E</a></li>
@@ -65,6 +76,6 @@
             <li><a href="w_letter.php">W</a></li>
             <li><a href="x_letter.php">X</a></li>
             <li><a href="y_letter.php">Y</a></li>
-            <li><a href="z_letter.php">Z</a></li>
+            <li><a href="z_letter.php">Z</a></li> -->
         </ul>
     </div>
