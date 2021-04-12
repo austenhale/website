@@ -9,9 +9,9 @@
   
   #$_SESSION['authenticated'] = $dao->userExist($email,$password);
   if ($_SESSION['authenticated'] ) {
-    echo "<div id=logout>Welcome, $email
+    echo "<div id=logout><span style=font-color: white>Welcome, $email</span>
     <form action=logout_handler.php method=get>
-    <input type=submit id=logout action=logout_handler.php value=logout>
+    <input type=submit id=logout_button action=logout_handler.php value=Logout>
     </form>
     </div>";
   }
@@ -24,7 +24,12 @@
         <input type=submit value=Login>
         <a href =signup.php><button type=button>Sign up</button></a>
     </form>";
-  } ?> 
+  } 
+  if (isset($_SESSION['messages']) ){
+    echo "<div id=invalid_login>Invalid login</div>";   
+   }
+   unset($_SESSION['messages']);
+  ?> 
       
     <a href="home.php"><img src="Images\aouc.png" alt="aouc logo" class="center"></a>
         

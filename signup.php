@@ -10,7 +10,9 @@
         
     <form class="modal-content" method="post" action="signup_handler.php">
              <?php if (isset($_SESSION['messages'])){
-                    echo "<div id=invalid_signup>Invalid email address format</div>";   
+                 foreach ($_SESSION['messages'] as $message){
+                    echo "<div id=invalid_signup>$message</div>";  
+                 }   
             }
             unset($_SESSION['messages']); 
             ?>
@@ -21,7 +23,7 @@
             <input type="password" id="password" name="password" required placeholder="Password">
             <hr>
             <label for="password"><span style="color: red">*</span><strong>Repeat Password:</strong></label> 
-            <input type="password" id="password" name="password" required placeholder="Repeat password">
+            <input type="password" id="repeatPassword" name="repeatPassword" required placeholder="Repeat password">
             <hr>
             <label for="favoriteAnimal"><strong>Favorite Animal: </strong></label>
             <input type="text" id="favoriteAnimal" name="favoriteAnimal" placeholder="Favorite animal">

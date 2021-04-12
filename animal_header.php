@@ -22,7 +22,7 @@
             <label for=password>Password: </label>
             <input type=password id=password name=password>
             <input type=submit value=Login>
-            <a href =..\signup.php><button type=button>Sign up</button></a>
+            <a href =signup.php><button type=button>Sign up</button></a>
         </form>
         ";
         

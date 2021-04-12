@@ -8008,3 +8008,315 @@ now - INFO  --> user is not admin
 now - INFO  --> Connection succeeded 
 now - INFO  --> Connection succeeded 
 now - INFO  --> user is not admin 
+now - INFO  --> Connection failed: SQLSTATE[HY000] [1045] Access denied for user ''@'ip-10-0-118-207.ec2.internal' (using password: NO) 
+now - INFO  --> Connection failed: SQLSTATE[HY000] [1045] Access denied for user ''@'ip-10-0-101-35.ec2.internal' (using password: NO) 
+now - INFO  --> Connection failed: SQLSTATE[HY000] [1045] Access denied for user ''@'ip-10-0-118-207.ec2.internal' (using password: NO) 
+now - INFO  --> Connection failed: SQLSTATE[HY000] [1045] Access denied for user ''@'ip-10-0-118-207.ec2.internal' (using password: NO) 
+now - INFO  --> Connection failed: SQLSTATE[HY000] [1045] Access denied for user ''@'ip-10-0-101-35.ec2.internal' (using password: NO) 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> Connection failed: could not find driver 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user was found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: test123@gmail.com
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: test123@gmail.com
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: test123@gmail.com 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: test123@gmail.com 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: test123@gmail.com 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: test123@gmail.com 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: test123@gmail.com 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 

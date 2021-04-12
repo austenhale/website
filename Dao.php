@@ -1,17 +1,14 @@
+
 <?php
 
 require_once 'KLogger.php';
 
 class Dao {
 
-  #public $dsn = 'mysql:host=localhost;dbname=heroku_8e12e35414ca6ea';
+  #public $dsn = 'mysql:host=localhost;dbname=aouc';
   #public $user = "root";
   #public $password = "66bird13!";
-  private $host = "us-cdbr-east-03.cleardb.com";
-  private $db = "heroku_8e12e35414ca6ea";
-  public $user = "b0b660f29fc63c";
-  public $password = "e0503ed9";
-  public $dsn = 'msql:host=us-cdbr-east-03.cleardb.com;dbname=heroku_8e12e35414ca6ea';
+  #public $localhost_cleardb_url = "mysql://b0b660f29fc63c:e0503ed9@us-cdbr-east-03.cleardb.com/heroku_8e12e35414ca6ea?reconnect=true";
   protected $logger;
   
 
@@ -19,26 +16,25 @@ class Dao {
     $this->logger = new KLogger ( "log.txt" , KLogger::DEBUG );
   }
 
-  public function getConnection () {
+  private function getConnection () {
+    $localhost_cleardb_url = "mysql://b0b660f29fc63c:e0503ed9@us-cdbr-east-03.cleardb.com/heroku_8e12e35414ca6ea?reconnect=true";
+    if (!getenv("CLEARDB_DATABASE_URL")){
+      putenv("CLEARDB_DATABASE_URL=$localhost_cleardb_url");
+    }
     try {
-     return new PDO($this->dsn, $this->user, $this->password);
-      $this->logger->LogInfo('Connection succeeded');
+        $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+
+        $host = $url["host"];
+        $db = substr($url["path"],1);
+        $user = $url["user"];
+        $pass = $url["pass"];
+        $connection = new PDO("mysql:host=$host;dbname=$db;", $user, $pass);
+        #echo 'Connected successfully';
     } catch (PDOException $e) {
-      echo 'Connection failed: ' . $e->getMessage();
-      $this->logger->LogInfo('Connection failed: ' . $e->getMessage());
+        echo 'Connection failed: ' . $e->getMessage();
     }
     return $connection;
   }
-
-  // private function getConnection () {
-  //   try {
-  //       $connection = new PDO($this->dsn, $this->user, $this->password);
-  //       #echo 'Connected successfully';
-  //   } catch (PDOException $e) {
-  //       echo 'Connection failed: ' . $e->getMessage();
-  //   }
-  //   return $connection;
-  // }
 
   public function isAdmin($email){
     $connection = $this->getConnection();

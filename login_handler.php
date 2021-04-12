@@ -8,7 +8,9 @@
   // check the email and password
   require_once 'Dao.php';
   $dao = new Dao();
-  $_SESSION['authenticated'] = $dao->userExist($email, $password);
+  $salt = "aocj;l!!!akjfp8pq8980q4p;hlafidhjspc8q923on_169";
+  $saltPassword = hash("sha256", $salt."pepper123!#@$".$password);
+  $_SESSION['authenticated'] = $dao->userExist($email, $saltPassword);
 
   if ($_SESSION['authenticated']) {
      $_SESSION['email'] = $email;
@@ -17,6 +19,7 @@
      exit;
   } else {
       if(strcmp($email, "") != 0){
+        $errors[] = "Invalid login information.";
         $errors[] = "Invalid login information.";
         $_SESSION['messages'] = $errors;
       }
