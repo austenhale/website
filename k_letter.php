@@ -8,9 +8,9 @@ $_SESSION['comment_table'] = "comments_k";
         <link rel="stylesheet" href="style.css">
         <?php include_once 'animal_header.php'; ?>
     </head>
-    <h1 id="animal_name">Animal with 'K' name</h1>
+    <h1 id="animal_name">Kudu</h1>
     <div id=animal_content>
-        <img src="Images/aouc.png" alt="aouc logo" id="left_picture">
+        <img src="Images/kudu.png" alt="kudu" id="left_picture">
         <p id=animal_text>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
             ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
