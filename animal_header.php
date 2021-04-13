@@ -35,8 +35,15 @@
         
         ?>
 
-        
-        <a href=home.php><img src=Images\aouc.png alt=aouc logo class=center></a>
+        <?php
+        $alaphabet = range('a', 'z');
+        $currentLetter = 'b';
+        foreach ($alaphabet as $letter)
+        if (strcmp($_SESSION['current_page'],"/aouc/".$letter ."_letter.php") == 0){
+           $currentLetter = $letter;
+        } 
+        ?>   
+        <a href=home.php><img src=Images\aouc.png onmouseover="this.src='Images\\aouc_<?php echo $currentLetter ?>.png'"  onmouseout="this.src='Images\\aouc.png'"alt=aouc logo class=center></a>
     </div>
     <div id="header_alphabet_letters">
          <ul id="ul_header_letters">
