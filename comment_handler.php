@@ -16,5 +16,5 @@ $table = isset($_SESSION['comment_table']) ? $_SESSION['comment_table']: '';
   $dao = new Dao();
   $dao->insertComment(isset($_SESSION['email']) ? $_SESSION['email'] : "Anonymous", $_POST['comment'], $table);
 
-  header("Location: ". $_SESSION['current_page']);
+  header("Location: ". $_SESSION['current_page'] . "#comments_table");
   exit;
