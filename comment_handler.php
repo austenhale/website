@@ -6,7 +6,7 @@
   $errors = array();
 
 $_SESSION['class'] = "positive_vibes";
-//$_SESSION['messages'] = array("Comment posted.");
+$_SESSION['comments'] = array("Comment posted.");
 $_SESSION['form_data'] = array();
 
 $table = isset($_SESSION['comment_table']) ? $_SESSION['comment_table']: '';

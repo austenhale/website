@@ -3,7 +3,7 @@
 
   $email = $_POST['email'];
   $password = $_POST['password'];
-  $errors = array();
+  $messages = array();
 
   // check the email and password
   require_once 'Dao.php';
@@ -15,13 +15,14 @@
   if ($_SESSION['authenticated']) {
      $_SESSION['email'] = $email;
      $_SESSION['password'] = $password;
+     $messages[] = "Thanks for logging in.";
+     $_SESSION['messages'] = $messages;
      header("Location: ". $_SESSION['current_page']);
      exit;
   } else {
       if(strcmp($email, "") != 0){
-        $errors[] = "Invalid login information.";
-        $errors[] = "Invalid login information.";
-        $_SESSION['messages'] = $errors;
+        $messages[] = "Invalid login information.";
+        $_SESSION['messages'] = $messages;
       }
       header("Location: ". $_SESSION['current_page']);
       exit;

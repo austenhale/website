@@ -3,7 +3,7 @@
 <link rel="icon" type="image/png" href="Images/aouc.png">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap" rel="stylesheet">
-
+<script src="js/messages.js"></script>
   <div id="login_logo">
     <?php
         require_once 'Dao.php';
@@ -17,6 +17,13 @@
             <input type=submit id=logout action=logout_handler.php value=logout>
             </form>
             </div>";
+            echo "<div id=message_wrapper>";
+            if (isset($_SESSION['messages']) ){
+                foreach ($_SESSION['messages'] as $messages)
+                    echo "<div class=success_messages>$messages</div>";
+               }
+            unset($_SESSION['messages']);
+            echo "</div>";
         }else {
             echo "<form id=login method=post action=login_handler.php>
             <label for=email>Email: </label>
@@ -27,11 +34,18 @@
             <a href =signup.php><button type=button>Sign up</button></a>
         </form>
         ";
-        
+        echo "<div id=message_wrapper>";
         if (isset($_SESSION['messages']) ){
-            echo "<div id=invalid_login>Invalid login</div>";   
+            foreach ($_SESSION['messages'] as $messages)
+                echo "<div class=failure_messages>$messages</div>";
            }
-           unset($_SESSION['messages']);
+        unset($_SESSION['messages']);
+        if (isset($_SESSION['comments']) ){
+            foreach ($_SESSION['comments'] as $messages)
+                echo "<div class=success_messages>$messages</div>";
+           }
+        unset($_SESSION['comments']);
+        echo "</div>";
         }
         
         
