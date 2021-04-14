@@ -11,7 +11,17 @@ $_SESSION['comment_table'] = "comments_a";
     <h1 id="animal_name">African Civet</h1>
     <div id=animal_content>
         <img src="Images/african_civet.jpg" alt="african_civet" id="left_picture">
-        <img src="Images/saharan_africa.png" alt="aouc logo" id="right_picture">
+        
+        <div class="slideshow-container">
+            <div class="mySlides fade">
+                <img src="Images/saharan_africa.png" alt="aouc logo" id="right_picture">
+            </div>
+            <div class="mySlides fade">
+                <img src="Images/saharan_env.jfif" alt="saharan" id="right_picture">
+            </div>
+        </div>
+        
+        <script src="js/slideshow.js"></script>
         <p id=animal_text>
             The african civet is a nocturnal animal found in Saharan Africa. It will generally
             try to eat anything that it finds; whether it be plants or other animals. It's fur
