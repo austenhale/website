@@ -16,7 +16,9 @@ $_SESSION['comment_table'] = "comments_a";
        <?php include_once 'animal_header.php'; ?>
     </head>
     <h1 id="animal_name" style="font-family: 'Zen Dots', cursive">African Civet</h1>
-    <div id=animal_content>
+    <body>
+    <div id="page">
+    <div id="animal_content">
         <img src="Images/african_civet.jpg" alt="african_civet" id="left_picture">
         
 
@@ -37,6 +39,9 @@ $_SESSION['comment_table'] = "comments_a";
     
 
     <?php include_once 'comments_table.php'; ?>
+    
     </div>
     <?php include_once 'footer.php'; ?>
+    </div>
+    </body>
 </html>
