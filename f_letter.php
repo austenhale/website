@@ -8,7 +8,7 @@ $_SESSION['comment_table'] = "comments_f";
         <link rel="stylesheet" href="style.css">
         <?php include_once 'animal_header.php'; ?>
     </head>
-    <h1 id="animal_name">False Killer Whale</h1>
+    <h1 id="animal_name" style="font-family: 'Zen Dots', cursive">False Killer Whale</h1>
     <div id=animal_content>
         <img src="Images/false_killer_whale.png" alt="false killer whale" id="left_picture">
         <p id=animal_text>

@@ -8,7 +8,7 @@ $_SESSION['comment_table'] = "comments_q";
         <link rel="stylesheet" href="style.css">
         <?php include_once 'animal_header.php'; ?>
     </head>
-    <h1 id="animal_name">Quoll</h1>
+    <h1 id="animal_name" style="font-family: 'Zen Dots', cursive">Quoll</h1>
     <div id=animal_content>
         <img src="Images/quoll.png" alt="quoll" id="left_picture">
         <p id=animal_text>

@@ -1,6 +1,8 @@
 
 <link rel="stylesheet" href="style.css">
 <link rel="icon" type="image/png" href="Images/aouc.png">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap" rel="stylesheet">
 
   <div id="login_logo">
     <?php
