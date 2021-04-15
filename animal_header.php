@@ -3,7 +3,8 @@
 <link rel="icon" type="image/png" href="Images/aouc.png">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap" rel="stylesheet">
-<script src="js/messages.js"></script>
+<script langauge="JavaScript" type="text/javascript" src="js/jquery.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/messages.js" ></script>
   <div id="login_logo">
     <?php
         require_once 'Dao.php';

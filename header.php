@@ -1,4 +1,7 @@
+<script langauge="JavaScript" type="text/javascript" src="js/jquery.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/messages.js" ></script>
 <?php session_start(); ?>
+<link rel="stylesheet" href="style.css">
   <div id="login_logo">
   <?php
   require_once 'Dao.php';
@@ -14,6 +17,18 @@
     <input type=submit id=logout_button action=logout_handler.php value=Logout>
     </form>
     </div>";
+    echo "<div id=message_wrapper>";
+    if (isset($_SESSION['messages']) ){
+    foreach ($_SESSION['messages'] as $messages)
+      echo "<div class=success_messages>$messages</div>";  
+    }
+    unset($_SESSION['messages']);
+    if (isset($_SESSION['comments']) ){
+      foreach ($_SESSION['comments'] as $messages)
+          echo "<div class=success_messages>$messages</div>";
+     }
+    unset($_SESSION['comments']);
+    echo "</div>";
   }
   else {
     echo "<form id=login method=post action=login_handler.php>
@@ -24,11 +39,20 @@
         <input type=submit value=Login>
         <a href =signup.php><button type=button>Sign up</button></a>
     </form>";
-  } 
-  if (isset($_SESSION['messages']) ){
-    echo "<div id=invalid_login>Invalid login</div>";   
+    echo "<div id=message_wrapper>";
+    if (isset($_SESSION['messages']) ){
+        foreach ($_SESSION['messages'] as $messages)
+            echo "<div class=failure_messages>$messages</div>";
+    }
+    unset($_SESSION['messages']);
+    if (isset($_SESSION['comments']) ){
+        foreach ($_SESSION['comments'] as $messages)
+            echo "<div class=success_messages>$messages</div>";
    }
-   unset($_SESSION['messages']);
+    unset($_SESSION['comments']);
+    echo "</div>";
+  } 
+  
   ?> 
       
     <a href="home.php"><img src="Images\aouc.png" alt="aouc logo" class="center"></a>

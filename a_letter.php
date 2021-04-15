@@ -10,10 +10,11 @@ $_SESSION['comment_table'] = "comments_a";
 		
         <link rel="stylesheet" href="js/a_letter_files/vlb_files1/vlightbox1.css" type="text/css" />
 		<link rel="stylesheet" href="js/a_letter_files/vlb_files1/visuallightbox.css" type="text/css" media="screen" />
-        <script src="js/a_letter_files/vlb_engine/jquery.min.js" type="text/javascript"></script>
-		<script src="js/a_letter_files/vlb_engine/visuallightbox.js" type="text/javascript"></script>
+       <!-- <script src="js/a_letter_files/vlb_engine/jquery.min.js" type="text/javascript"></script> -->
+		
 
        <?php include_once 'animal_header.php'; ?>
+       <script src="js/a_letter_files/vlb_engine/visuallightbox.js" type="text/javascript"></script>
     </head>
     <h1 id="animal_name" style="font-family: 'Zen Dots', cursive">African Civet</h1>
     <body>

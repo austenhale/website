@@ -19733,3 +19733,1516 @@ now - INFO  --> user is adminArray
     [0] => 1
 )
  
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: austenphale@gmail.com 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: austenphale@gmail.com 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
