@@ -55,12 +55,13 @@ class Dao {
     }
   }
 
-  public function makeUser($email, $password) {
+  public function makeUser($email, $password, $favorite_animal) {
     $connection = $this->getConnection();
     try {
-      $q = $connection->prepare("insert into users (email, password, admin) values (:email, :password, 0 )");
+      $q = $connection->prepare("insert into users (email, password, favorite_animal, admin) values (:email, :password, :favorite_animal, 0 )");
       $q->bindParam(":email", $email);
       $q->bindParam(":password", $password);
+      $q->bindParam(":favorite_animal", $favorite_animal);
       $q->execute();
 
       $q = $connection->prepare("select count(*) as total from users where email = :email and password = :password");
@@ -130,4 +131,70 @@ class Dao {
     return $rows;
   }
 
+  public function getUserEmail($email, $password){
+    
+    $connection = $this->getConnection();
+    try {
+      $q = $connection->prepare("select email from users where email = :email and password = :password");
+      $q->bindParam(":email", $email);
+      $q->bindParam(":password", $password);
+      $q->execute();
+      $row=$q->fetch();
+      $this->logger->LogInfo("user info:" . print_r($row,1) );
+      $this->logger->LogInfo("email info:" . print_r($email,1) );
+      $this->logger->LogInfo("password info:" . print_r($password,1) );
+      return $row;
+    }
+    catch(Exception $e){
+      echo print_r($e, 1);
+      exit;
+    }
+    
+    
+  }
+  public function getUserPassword($email, $password){
+    
+    $connection = $this->getConnection();
+    try {
+      $q = $connection->prepare("select password from users where email = :email and password = :password");
+      $q->bindParam(":email", $email);
+      $q->bindParam(":password", $password);
+      $q->execute();
+      $row=$q->fetch();
+      $this->logger->LogInfo("user info:" . print_r($row,1) );
+      $this->logger->LogInfo("email info:" . print_r($email,1) );
+      $this->logger->LogInfo("password info:" . print_r($password,1) );
+      return $row;
+    }
+    catch(Exception $e){
+      echo print_r($e, 1);
+      exit;
+    }
+    
+    
+  }
+
+  public function getUserAnimal($email, $password){
+    
+    $connection = $this->getConnection();
+    try {
+      $q = $connection->prepare("select favorite_animal from users where email = :email and password = :password");
+      $q->bindParam(":email", $email);
+      $q->bindParam(":password", $password);
+      $q->execute();
+      $row=$q->fetch();
+      $this->logger->LogInfo("user info:" . print_r($row,1) );
+      $this->logger->LogInfo("email info:" . print_r($email,1) );
+      $this->logger->LogInfo("password info:" . print_r($password,1) );
+      return $row;
+    }
+    catch(Exception $e){
+      echo print_r($e, 1);
+      exit;
+    }
+    
+    
+  }
 }
+
+

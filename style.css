@@ -44,9 +44,11 @@
 #logout {
     position: absolute;
     float:right;
-    z-index: 2;
-       
-    
+    z-index: 2; 
+}
+
+#account {
+    float: right;
 }
 
 .center {

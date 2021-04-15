@@ -17,6 +17,11 @@
     <input type=submit id=logout_button action=logout_handler.php value=Logout>
     </form>
     </div>";
+    echo "<div id=account>
+              <form action=account.php method=get>
+              <input type=submit id=account action=account.php value='My Account'>
+              </form>
+          </div>";
     echo "<div id=message_wrapper>";
     if (isset($_SESSION['messages']) ){
     foreach ($_SESSION['messages'] as $messages)

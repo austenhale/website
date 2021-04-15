@@ -4,6 +4,7 @@
   $email = $_POST['email'];
   $password = $_POST['password'];
   $repeatPassword = $_POST['repeatPassword'];
+  $favorite_animal = $_POST['favoriteAnimal'];
   $errors = array();
   $errored = 0;
   if (!filter_var($email, FILTER_VALIDATE_EMAIL)){
@@ -12,7 +13,7 @@
       $errored = 1;
   }
   if (strcmp($password, $repeatPassword) != 0){
-     $errors[] = "Passwords don't match. \n$password \n$repeatPassword";
+     $errors[] = "Passwords don't match.";
      header('Location: signup.php');
      $errored = 1;
   }
@@ -26,7 +27,7 @@
   $dao = new Dao();
   $salt = "aocj;l!!!akjfp8pq8980q4p;hlafidhjspc8q923on_169";
   $saltPassword = hash("sha256", $salt."pepper123!#@$".$password);
-  $_SESSION['authenticated'] = $dao->makeUser($email,$saltPassword);
+  $_SESSION['authenticated'] = $dao->makeUser($email,$saltPassword, $favorite_animal);
 
   if ($_SESSION['authenticated']){
      $_SESSION['email'] = $email;

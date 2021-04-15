@@ -22146,3 +22146,1721 @@ now - INFO  --> user is not adminArray
     [0] => 0
 )
  
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: austenphale@gmail.com 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: austenphale@gmail.com 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenphale@gmail.com
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user was found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user was found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user info: 
+now - INFO  --> user info: 
+now - INFO  --> user info: 
+now - INFO  --> user info: 
+now - INFO  --> user info: 
+now - INFO  --> user info: 
+now - INFO  --> user info: 
+now - INFO  --> user info: 
+now - INFO  --> user info: 
+now - INFO  --> email info:austenhale@u.boisestate.edu 
+now - INFO  --> password info:d41dae38cd6c16e1e9209f3aae52369f0e839607f824e33709deeb990cf5463e 
+now - INFO  --> user info: 
+now - INFO  --> email info:austenhale@u.boisestate.edu 
+now - INFO  --> password info:d41dae38cd6c16e1e9209f3aae52369f0e839607f824e33709deeb990cf5463e 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: austenphale@gmail.com 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user info: 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info: 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user was found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user info: 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:d41dae38cd6c16e1e9209f3aae52369f0e839607f824e33709deeb990cf5463e 
+now - INFO  --> user info: 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:d41dae38cd6c16e1e9209f3aae52369f0e839607f824e33709deeb990cf5463e 
+now - INFO  --> user info: 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:d41dae38cd6c16e1e9209f3aae52369f0e839607f824e33709deeb990cf5463e 
+now - INFO  --> user info: 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:d41dae38cd6c16e1e9209f3aae52369f0e839607f824e33709deeb990cf5463e 
+now - INFO  --> user info: 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:d41dae38cd6c16e1e9209f3aae52369f0e839607f824e33709deeb990cf5463e 
+now - INFO  --> user info: 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:d41dae38cd6c16e1e9209f3aae52369f0e839607f824e33709deeb990cf5463e 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user info: 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:d41dae38cd6c16e1e9209f3aae52369f0e839607f824e33709deeb990cf5463e 
+now - INFO  --> user info: 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:d41dae38cd6c16e1e9209f3aae52369f0e839607f824e33709deeb990cf5463e 
+now - INFO  --> user info: 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:d41dae38cd6c16e1e9209f3aae52369f0e839607f824e33709deeb990cf5463e 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: austenphale@gmail.com 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: austenhale@u.boisestate.edu 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user info:Array
+(
+    [email] => austenhale@u.boisestate.edu
+    [0] => austenhale@u.boisestate.edu
+)
+ 
+now - INFO  --> email info:austenhale@u.boisestate.edu 
+now - INFO  --> password info:6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0 
+now - INFO  --> user info:Array
+(
+    [password] => 6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0
+    [0] => 6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0
+)
+ 
+now - INFO  --> email info:austenhale@u.boisestate.edu 
+now - INFO  --> password info:6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => falcon
+    [0] => falcon
+)
+ 
+now - INFO  --> email info:austenhale@u.boisestate.edu 
+now - INFO  --> password info:6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: test@gmail.com 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user info:Array
+(
+    [email] => test@gmail.com
+    [0] => test@gmail.com
+)
+ 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0 
+now - INFO  --> user info:Array
+(
+    [password] => 6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0
+    [0] => 6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0
+)
+ 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => 
+    [0] => 
+)
+ 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: test@gmail.com 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user info:Array
+(
+    [email] => test@gmail.com
+    [0] => test@gmail.com
+)
+ 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0 
+now - INFO  --> user info:Array
+(
+    [password] => 6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0
+    [0] => 6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0
+)
+ 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => 
+    [0] => 
+)
+ 
+now - INFO  --> email info:test@gmail.com 
+now - INFO  --> password info:6e3a269ba3bf8336cb8830e9120e246d60e6f47a808161095f7431fa0ba620e0 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is adminArray
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user is not adminArray
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: austenphale@gmail.com 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
