@@ -23864,3 +23864,74 @@ now - INFO  --> user info:Array
  
 now - INFO  --> email info:austenphale@gmail.com 
 now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+austenhale@u.boisestate.eduefaa78a42c18d6eb14d1fc9d1f5b2918b3f6e412724e56654a1494e50d031f7d 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+austenhale@u.boisestate.eduefaa78a42c18d6eb14d1fc9d1f5b2918b3f6e412724e56654a1494e50d031f7d 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+austenhale@u.boisestate.eduefaa78a42c18d6eb14d1fc9d1f5b2918b3f6e412724e56654a1494e50d031f7d 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+austenhale@u.boisestate.eduefaa78a42c18d6eb14d1fc9d1f5b2918b3f6e412724e56654a1494e50d031f7d 
+now - INFO  --> user does not existArray
+(
+    [total] => 0
+    [0] => 0
+)
+with username: austenhale@u.boisestate.edu
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+austenhale@u.boisestate.eduefaa78a42c18d6eb14d1fc9d1f5b2918b3f6e412724e56654a1494e50d031f7d 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+with username: austenhale@u.boisestate.edu 

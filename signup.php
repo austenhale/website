@@ -15,9 +15,17 @@
                  }   
             }
             unset($_SESSION['messages']); 
+            $_SESSION['email'] = isset($_SESSION['email']) ? $_SESSION['email'] : "Email";
+            $_SESSION['favoriteAnimal'] = isset($_SESSION['favoriteAnimal']) ? $_SESSION['favoriteAnimal'] : "FavoriteAnimal";
             ?>
-            <label for="email"><span style="color: red">*</span><strong>Email: </strong></label>
-            <input type="text" id="email" name="email" required placeholder="Email">
+            <?php if (strcmp($_SESSION['email'], "Email") == 0){
+                echo "<label for=email><span class=redclass>*</span><strong>Email: </strong></label>
+                <input type=text id=email name=email required placeholder=$_SESSION[email]";
+            } else {
+                echo "<label for=email><span style=color: red>*</span><strong>Email: </strong></label>
+            <input type=text id=email name=email value= $_SESSION[email]";
+            }
+            ?>
             <hr>
             <label for="password" id="password_txt"><span style="color: red">*</span><strong>Password: </strong></label>
             <input type="password" id="password" name="password" required placeholder="Password">
@@ -25,8 +33,14 @@
             <label for="password"><span style="color: red">*</span><strong>Repeat Password:</strong></label> 
             <input type="password" id="repeatPassword" name="repeatPassword" required placeholder="Repeat password">
             <hr>
-            <label for="favoriteAnimal"><strong>Favorite Animal: </strong></label>
-            <input type="text" id="favoriteAnimal" name="favoriteAnimal" placeholder="Favorite animal">
+            <?php if (strcmp($_SESSION['favoriteAnimal'], "FavoriteAnimal") == 0){
+                echo "<label for=favoriteAnimal><strong>Favorite Animal: </strong></label>
+                <input type=text id=favoriteAnimal name=favoriteAnimal placeholder=Favorite animal>";
+            } else {
+                echo "<label for=favoriteAnimal><strong>Favorite Animal: </strong></label>
+                <input type=text id=favoriteAnimal name=favoriteAnimal value=$_SESSION[favoriteAnimal]>";
+            }
+            ?>
             <hr>
             <p id="submit_subtext"><span style="color: red">*</span>are required.</p>
             <input type="submit" value="Submit" id="signup_submit">
