@@ -63,7 +63,7 @@
         <a href=home.php><img src=Images\aouc.png onmouseover="this.src='Images\\aouc_<?php echo $currentLetter ?>.png'"  onmouseout="this.src='Images\\aouc.png'"alt=aouc logo class=center></a>
     </div>
     <div id="header_alphabet_letters">
-         <ul id="ul_header_letters">
+         <ul id="ul_header_letter">
             <?php 
             $alaphabet = range('a', 'z');
             foreach ($alaphabet as $letter)
