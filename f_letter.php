@@ -7,10 +7,20 @@ $_SESSION['comment_table'] = "comments_f";
     <head>
         <link rel="stylesheet" href="style.css">
         <?php include_once 'animal_header.php'; ?>
+        <link rel="stylesheet" href="js/f_letter_files/vlb_files1/vlightbox1.css" type="text/css" />
+		<link rel="stylesheet" href="js/f_letter_files/vlb_files1/visuallightbox.css" type="text/css" media="screen" />
+        <script src="js/f_letter_files/vlb_engine/jquery.min.js" type="text/javascript"></script>
+		<script src="js/f_letter_files/vlb_engine/visuallightbox.js" type="text/javascript"></script>
     </head>
     <h1 id="animal_name" style="font-family: 'Zen Dots', cursive">False Killer Whale</h1>
     <div id=animal_content>
         <img src="Images/false_killer_whale.png" alt="false killer whale" id="left_picture">
+        <div id="vlightbox1">
+            <a class="vlightbox1" href="js/f_letter_files/vlb_images1/f_map.jpg" title="f_map"><img src="js/f_letter_files/vlb_thumbnails1/f_map.jpg" alt="f_map"/></a>
+            <a class="vlightbox1" href="js/f_letter_files/vlb_images1/f_nature.jpg" title="f_nature"><img src="js/f_letter_files/vlb_thumbnails1/f_nature.jpg" alt="f_nature"/></a>
+            <span class="vlb"><a href="http://visuallightbox.com">jquery lightbox with video</a>by VisualLightBox.com v6.1</span>
+        </div>
+	<script src="js/f_letter_files/vlb_engine/vlbdata1.js" type="text/javascript"></script>
         <p id=animal_text>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
             ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
@@ -18,7 +28,6 @@ $_SESSION['comment_table'] = "comments_f";
             velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
             in culpa qui officia deserunt mollit anim id est laborum. 
         </p>
-        <img src="Images/world_map.jpg" alt="aouc logo" id="right_picture">
     </div>
     <?php include_once 'comments_table.php'; ?>
         

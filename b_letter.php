@@ -7,12 +7,13 @@ $_SESSION['comment_table'] = "comments_b";
     <head>
         <link rel="stylesheet" href="style.css">
 
-        <link rel="stylesheet" href="js/a_letter_files/vlb_files1/vlightbox1.css" type="text/css" />
-		<link rel="stylesheet" href="js/a_letter_files/vlb_files1/visuallightbox.css" type="text/css" media="screen" />
-        <script src="js/a_letter_files/vlb_engine/jquery.min.js" type="text/javascript"></script>
-		<script src="js/a_letter_files/vlb_engine/visuallightbox.js" type="text/javascript"></script>
-
+        <link rel="stylesheet" href="js/b_letter_files/vlb_files1/vlightbox1.css" type="text/css" />
+		<link rel="stylesheet" href="js/b_letter_files/vlb_files1/visuallightbox.css" type="text/css" media="screen" />
         <?php include_once 'animal_header.php'; ?>
+        <script src="js/b_letter_files/vlb_engine/jquery.min.js" type="text/javascript"></script>
+		<script src="js/b_letter_files/vlb_engine/visuallightbox.js" type="text/javascript"></script>
+
+        
     </head>
     <h1 id="animal_name" style="font-family: 'Zen Dots', cursive">Bandicoot</h1>
     <body>
@@ -20,11 +21,11 @@ $_SESSION['comment_table'] = "comments_b";
         <div id="animal_content">
             <img src="Images/bandicoot.png" alt="bandicoot" id="left_picture">
             <div id="vlightbox1">
-	        <a class="vlightbox1" href="js/a_letter_files/vlb_images1/saharan_env.jpg" title="saharan_env"><img src="js/a_letter_files/vlb_thumbnails1/saharan_env.jpg" alt="saharan_env"/></a>
-            <a class="vlightbox1" href="js/a_letter_files/vlb_images1/saharan_africa.jpg" title="saharan_africa"><img src="js/a_letter_files/vlb_thumbnails1/saharan_africa.jpg" alt="saharan_africa"/></a>
-             <span class="vlb"><a href="http://visuallightbox.com">jquery lightbox with video</a>by VisualLightBox.com v6.1</span>
-	    </div>
-	<script src="js/a_letter_files/vlb_engine/vlbdata1.js" type="text/javascript"></script>
+	            <a class="vlightbox1" href="js/b_letter_files/vlb_images1/b_australia.jpg" title="b_australia"><img src="js/b_letter_files/vlb_thumbnails1/b_australia.jpg" alt="b_australia"/></a>
+                <a class="vlightbox1" href="js/b_letter_files/vlb_images1/b_queensland.jpg" title="b_queensland"><img src="js/b_letter_files/vlb_thumbnails1/b_queensland.jpg" alt="b_queensland"/></a>
+                <span class="vlb"><a href="http://visuallightbox.com">jquery lightbox with video</a>by VisualLightBox.com v6.1</span>
+	        </div>
+	<script src="js/b_letter_files/vlb_engine/vlbdata1.js" type="text/javascript"></script>
             <p id=animal_text>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
                 ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
