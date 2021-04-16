@@ -210,6 +210,22 @@ class Dao {
       exit;
     }
   }
+
+  public function changePassword($email, $password){
+    $connection = $this->getConnection();
+    try {
+      $q = $connection->prepare("update users set password = :password where email = :email");
+      $q->bindParam(":email", $email);
+      $q->bindParam(":password", $password);
+      $q->execute();
+      $row=$q->fetch();
+      return $row;
+    }
+    catch (Exception $e){
+      echo print_r($e, 1);
+      exit;
+    }
+  }
 }
 
 

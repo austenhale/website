@@ -26455,3 +26455,723 @@ now - INFO  --> user info:Array
  
 now - INFO  --> email info:austenphale@gmail.com 
 now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bi
+    [0] => bi
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [password] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+    [0] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [password] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+    [0] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [password] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+    [0] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [password] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+    [0] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [password] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+    [0] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [password] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+    [0] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [password] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+    [0] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [password] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+    [0] => b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:b4aacb03c894ee45bfb123c3ee7c265a8053827fadd0bbb6089fbc096a06fc47 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:94a6c13f303265301b1ad2d233e2674d4b4e325ddf8167e7e5bac4d69309acbc 
+now - INFO  --> user info:Array
+(
+    [password] => 94a6c13f303265301b1ad2d233e2674d4b4e325ddf8167e7e5bac4d69309acbc
+    [0] => 94a6c13f303265301b1ad2d233e2674d4b4e325ddf8167e7e5bac4d69309acbc
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:94a6c13f303265301b1ad2d233e2674d4b4e325ddf8167e7e5bac4d69309acbc 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => cat
+    [0] => cat
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:94a6c13f303265301b1ad2d233e2674d4b4e325ddf8167e7e5bac4d69309acbc 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:94a6c13f303265301b1ad2d233e2674d4b4e325ddf8167e7e5bac4d69309acbc 
+now - INFO  --> user info:Array
+(
+    [password] => 94a6c13f303265301b1ad2d233e2674d4b4e325ddf8167e7e5bac4d69309acbc
+    [0] => 94a6c13f303265301b1ad2d233e2674d4b4e325ddf8167e7e5bac4d69309acbc
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:94a6c13f303265301b1ad2d233e2674d4b4e325ddf8167e7e5bac4d69309acbc 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:94a6c13f303265301b1ad2d233e2674d4b4e325ddf8167e7e5bac4d69309acbc 
+now - INFO  --> user info:Array
+(
+    [email] => austenphale@gmail.com
+    [0] => austenphale@gmail.com
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [password] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+    [0] => 720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
+now - INFO  --> user info:Array
+(
+    [favorite_animal] => bird
+    [0] => bird
+)
+ 
+now - INFO  --> email info:austenphale@gmail.com 
+now - INFO  --> password info:720944e5e6f6c9dcb3770ab122f05effe9699b1111a2db61ec0b75891482dd1a 
