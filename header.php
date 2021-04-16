@@ -24,7 +24,7 @@
       $page = $_SESSION['last_page'];
       echo "<div id=account>
            <form action=redirect_handler.php method=get>
-           <input type=submit id=account action=redirect_handler.php value='Return to $page'>
+           <input type=submit id=account action=redirect_handler.php value='Return to previous page'>
            </form>
         </div>";
   } else {

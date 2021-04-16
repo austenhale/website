@@ -35,7 +35,7 @@
             <hr>
             <?php if (strcmp($_SESSION['favoriteAnimal'], "FavoriteAnimal") == 0){
                 echo "<label for=favoriteAnimal><strong>Favorite Animal: </strong></label>
-                <input type=text id=favoriteAnimal name=favoriteAnimal placeholder=Favorite animal>";
+                <input type=text id=favoriteAnimal name=favoriteAnimal placeholder='Favorite animal'>";
             } else {
                 echo "<label for=favoriteAnimal><strong>Favorite Animal: </strong></label>
                 <input type=text id=favoriteAnimal name=favoriteAnimal value=$_SESSION[favoriteAnimal]>";

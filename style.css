@@ -226,4 +226,6 @@ a:hover {
     background-color: #B8E986;
     color: #000000;
 }
+
+.showAnimal .form{display:none;}
   

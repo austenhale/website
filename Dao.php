@@ -194,6 +194,22 @@ class Dao {
     
     
   }
+
+  public function changeAnimal($email, $animal){
+    $connection = $this->getConnection();
+    try {
+      $q = $connection->prepare("update users set favorite_animal = :animal where email = :email");
+      $q->bindParam(":email", $email);
+      $q->bindParam(":animal", $animal);
+      $q->execute();
+      $row=$q->fetch();
+      return $row;
+    }
+    catch (Exception $e){
+      echo print_r($e, 1);
+      exit;
+    }
+  }
 }
 
 
