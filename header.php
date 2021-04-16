@@ -1,6 +1,8 @@
 <script langauge="JavaScript" type="text/javascript" src="js/jquery.min.js"></script>
 <script language="JavaScript" type="text/javascript" src="js/messages.js" ></script>
-<?php session_start(); ?>
+<?php if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+} ?>
 <link rel="stylesheet" href="style.css">
   <div id="login_logo">
   <?php
@@ -9,7 +11,7 @@
   $email = isset($_SESSION['email']) ? $_SESSION['email'] : "nouser";
   $password = isset($_SESSION['password']) ? $_SESSION['password'] : "";
   $_SESSION['authenticated'] = isset($_SESSION['authenticated']) ? $_SESSION['authenticated'] : false;
-  
+  $_SESSION['last_page'] = isset($_SESSION['last_page']) ? $_SESSION['last_page'] : "No page";
   #$_SESSION['authenticated'] = $dao->userExist($email,$password);
   if ($_SESSION['authenticated'] ) {
     echo "<div id=logout><span style=font-color: white>Welcome, $email</span>
@@ -17,11 +19,21 @@
     <input type=submit id=logout_button action=logout_handler.php value=Logout>
     </form>
     </div>";
-    echo "<div id=account>
-              <form action=account.php method=get>
-              <input type=submit id=account action=account.php value='My Account'>
-              </form>
-          </div>";
+    
+    if (strcmp($_SESSION['current_page'],'/aouc/account.php?') == 0 ){
+      $page = $_SESSION['last_page'];
+      echo "<div id=account>
+           <form action=redirect_handler.php method=get>
+           <input type=submit id=account action=redirect_handler.php value='Return to $page'>
+           </form>
+        </div>";
+  } else {
+      echo "<div id=account>
+      <form action=account.php method=get>
+      <input type=submit id=account action=account.php value='My Account'>
+      </form>
+   </div>";
+  }
     echo "<div id=message_wrapper>";
     if (isset($_SESSION['messages']) ){
     foreach ($_SESSION['messages'] as $messages)

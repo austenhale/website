@@ -1,4 +1,14 @@
-<?php session_start();
+<html>
+<link rel="stylesheet" href="style.css">
+<?php 
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
+$_SESSION['last_page'] = $_SESSION['current_page'];
+$_SESSION['current_page'] = $_SERVER['REQUEST_URI'];
+include_once 'header.php'; 
+
+
     if (!isset($_SESSION['authenticated']) || !$_SESSION['authenticated']){
         header('Location: home.php');
         exit;
@@ -25,5 +35,5 @@
     </p>
 </div>
 
-
+</html>
         

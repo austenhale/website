@@ -18,11 +18,20 @@
             <input type=submit id=logout action=logout_handler.php value=logout>
             </form>
             </div>";
-            echo "<div id=account>
-                     <form action=account.php method=get>
-                     <input type=submit id=account action=account.php value='My Account'>
+            if (strcmp($_SESSION['current_page'],'/aouc/account.php?') == 0 ){
+                $page = $_SESSION['last_page'];
+                echo "<div id=account>
+                     <form action=redirect_handler.php method=get>
+                     <input type=submit id=account action=redirect_handler.php value='Return to $page'>
                      </form>
                   </div>";
+            } else {
+                echo "<div id=account>
+                <form action=account.php method=get>
+                <input type=submit id=account action=account.php value='My Account'>
+                </form>
+             </div>";
+            }
             echo "<div id=message_wrapper>";
             if (isset($_SESSION['messages']) ){
                 foreach ($_SESSION['messages'] as $messages)
