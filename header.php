@@ -20,7 +20,7 @@
     </form>
     </div>";
     
-    if (strcmp($_SESSION['current_page'],'/aouc/account.php?') == 0 ){
+    if (strcmp($_SESSION['current_page'],'/aouc/account.php?') == 0 || strcmp($_SESSION['current_page'],'/aouc/account.php') == 0){
       $page = $_SESSION['last_page'];
       echo "<div id=account>
            <form action=redirect_handler.php method=get>

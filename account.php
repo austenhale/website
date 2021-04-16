@@ -11,6 +11,7 @@ if (session_status() === PHP_SESSION_NONE) {
 $_SESSION['last_page'] = $_SESSION['current_page'];
 $_SESSION['current_page'] = $_SERVER['REQUEST_URI'];
 include_once 'header.php'; 
+$_SESSION['current_page'] = $_SESSION['last_page'];
 
 
 
