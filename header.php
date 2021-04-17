@@ -14,7 +14,7 @@
   $_SESSION['last_page'] = isset($_SESSION['last_page']) ? $_SESSION['last_page'] : "No page";
   #$_SESSION['authenticated'] = $dao->userExist($email,$password);
   if ($_SESSION['authenticated'] ) {
-    echo "<div id=logout><span style=font-color: white>Welcome, $email</span>
+    echo "<div id=logout><span class=whiteclass>Welcome, $email</span>
     <form action=logout_handler.php method=get>
     <input type=submit id=logout_button action=logout_handler.php value=Logout>
     </form>

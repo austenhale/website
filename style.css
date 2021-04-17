@@ -23,7 +23,9 @@
    
 }
 
-
+.whiteclass {
+    color:white;
+}
 
 #login_logo {
     position: relative;
