@@ -23,11 +23,7 @@ $_SESSION['comment_table'] = "comments_e";
 	<script src="js/e_letter_files/vlb_engine/thumbscript1.js" type="text/javascript"></script>
 	<script src="js/e_letter_files/vlb_engine/vlbdata1.js" type="text/javascript"></script>
         <p id=animal_text>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
-            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-            laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
-            in culpa qui officia deserunt mollit anim id est laborum. 
+        The elephant shrew is located in Africa, and it mainly eats bugs. Although elephant shrews are incredibly tiny, they are extraordinary fast, being able to reach speeds of 17.9mphs. They also possess the ability to twist their trunk, similar to elephants. Sadly, elephant shrews only live for 2-4 years. They are also diurnal and not highly social, although they do live in monogamous pairs.
         </p>
     </div>
     <?php include_once 'comments_table.php'; ?>

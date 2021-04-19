@@ -22,11 +22,9 @@ $_SESSION['comment_table'] = "comments_c";
 	    </div>
 	    <script src="js/c_letter_files/vlb_engine/vlbdata1.js" type="text/javascript"></script>
         <p id=animal_text>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
-            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-            laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
-            in culpa qui officia deserunt mollit anim id est laborum. 
+        The canaan dog is located in the Middle East, and like most dogs is an omnivore. There is only 2,000 to 3,000 of this dog throughout the world today, making it relatively uncommon. It is also the national dog of Israel, and was historically used by Bedouins to guard herds and camps. It's a medium sized dog, and has a dense outer coat. Its coat can range in color from black to cream to all shades of brown and red. Canaan dogs are also strongly defensive of their owners, but they aren't aggressive.
+
+
         </p>
     </div>
     <?php include_once 'comments_table.php'; ?>

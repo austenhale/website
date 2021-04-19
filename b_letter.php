@@ -27,11 +27,7 @@ $_SESSION['comment_table'] = "comments_b";
 	        </div>
 	<script src="js/b_letter_files/vlb_engine/vlbdata1.js" type="text/javascript"></script>
             <p id=animal_text>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
-                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-                laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
-                in culpa qui officia deserunt mollit anim id est laborum. 
+            Bandicoots are located in Australia. Their diet consists of meat and plants (omnivores). They are also in the same family as kangaroos. In addition, they have a v-shaped face and are great diggers.
             </p>
             
         </div>

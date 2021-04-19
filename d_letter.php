@@ -22,11 +22,8 @@ $_SESSION['comment_table'] = "comments_d";
 	    </div>
 	<script src="js/d_letter_files/vlb_engine/vlbdata1.js" type="text/javascript"></script>
         <p id=animal_text>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
-            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-            laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
-            in culpa qui officia deserunt mollit anim id est laborum. 
+        The dhole is located in Asia. It has an omnivore diet. The dhole is a highly social animal, living in clans with other dholes. Unfortunately, the dhole is considered endangered as there are less than 2,500 adults living today. In apperance, the dhole looks similar to a gray wolf and a red fox, but it has also been described as cat like. The dhole can also make a whistle sound, similar to the whistle of a red fox. The dhole has a reddish fur coat. For living, the dhole creates 4 different types of dens: earth dens, complex earth dens (dens with more than one entrance), simple cavernous dens, and complex cavernous dens.
+
         </p>
     </div>
     <?php include_once 'comments_table.php'; ?>
